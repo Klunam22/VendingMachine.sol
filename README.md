@@ -1,6 +1,8 @@
 # VendingMachine.sol
 
 READ_ME PROJECT INF0:
+# Created using Remix IDE
+
 This smart-contract mimics a soda vending machine, in a way. Where there is a seller(owner) and a buyer.
 
 Owner can:
